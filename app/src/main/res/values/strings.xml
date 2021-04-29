@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Github User</string>
+    <string name="main_title">Search Github User</string>
+    <string name="favorite_title">Favorite User</string>
+    <string name="query_hint">Search by username</string>
+    <string name="user_avatar">User avatar</string>
+    <string name="following_followers_icon">Following followers icon</string>
+    <string name="repository_icon">Repository icon</string>
+    <string name="followers_count">%d followers</string>
+    <string name="following_count">%d following</string>
+    <string name="company_logo">Company logo</string>
+    <string name="location_logo">Location logo</string>
+    <plurals name="repository_count">
+        <item quantity="zero">%d repository</item>
+        <item quantity="one">%d repository</item>
+        <item quantity="other">%d repositories</item>
+    </plurals>
+    <string name="search">Search</string>
+    <string name="language">Language</string>
+    <string name="followers">Followers</string>
+    <string name="following">Following</string>
+    <string name="not_found">Not found</string>
+    <string name="favorite_button">Favorite button</string>
+    <string name="favorite">Favorite</string>
+    <string name="toast_message_favorited">%s was added to favorite</string>
+    <string name="toast_message_unfavorited">%s was removed from favorite</string>
+    <string name="nothing">Nothing</string>
+    <string name="preference_repeating_alarm">9 AM daily reminder</string>
+    <string name="key_repeating_alarm">key_repeating_alarm</string>
+    <string name="key_change_language">key_change_language</string>
+    <string name="settings">Settings</string>
+    <string name="toast_message_repeating_alarm_activated">9 AM daily reminder has been activated</string>
+    <string name="toast_message_repeating_alarm_deactivated">9 AM daily reminder has been deactivated</string>
+    <string name="notification_title">Daily reminder</string>
+    <string name="notification_message">Do not forget to find your favorite Github user!</string>
+    <string name="github_logo">Github Logo</string>
+</resources>

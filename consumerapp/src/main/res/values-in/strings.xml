@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">User Consumer App</string>
+    <string name="main_title">Cari Pengguna Github</string>
+    <string name="favorite_title">Pengguna Favorit</string>
+    <string name="query_hint">Cari dengan username</string>
+    <string name="user_avatar">Avatar pengguna</string>
+    <string name="following_followers_icon">Ikon pengikut dan mengikuti</string>
+    <string name="repository_icon">Ikon repositori</string>
+    <string name="followers_count">%d pengikut</string>
+    <string name="following_count">%d mengikuti</string>
+    <string name="company_logo">Logo perusahaan</string>
+    <string name="location_logo">Logo lokasi</string>
+    <plurals name="repository_count">
+        <item quantity="other">%d repositori</item>
+    </plurals>
+    <string name="search">Cari</string>
+    <string name="language">Bahasa</string>
+    <string name="followers">Pengikut</string>
+    <string name="following">Mengikuti</string>
+    <string name="not_found">Tidak ditemukan</string>
+    <string name="favorite_button">Tombol favorit</string>
+    <string name="favorite">Favorit</string>
+    <string name="toast_message_favorited">%s telah ditambahkan ke favorit</string>
+    <string name="toast_message_unfavorited">%s telah dihapus dari favorit</string>
+    <string name="nothing">Tidak ada</string>
+    <string name="preference_repeating_alarm">Pengingat harian pukul 9 pagi</string>
+    <string name="key_repeating_alarm">key_repeating_alarm</string>
+    <string name="key_change_language">key_change_language</string>
+    <string name="settings">Pengaturan</string>
+    <string name="toast_message_repeating_alarm_activated">Pengingat harian pukul 9 pagi telah diaktifkan</string>
+    <string name="toast_message_repeating_alarm_deactivated">Pengingat harian pukul 9 pagi telah dinon-aktifkan</string>
+    <string name="notification_title">Pengingat harian</string>
+    <string name="notification_message">Jangan lupa cari pengguna Github favorit anda!</string>
+    <string name="github_logo">Logo Github</string>
+</resources>
